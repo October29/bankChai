@@ -1,0 +1,11 @@
+.input_text {
+  text-align: center;
+  padding: 0.3rem 1rem;
+  border: none;
+  background-color: #f3f7f7;
+  border-radius: 0.3rem;
+}
+
+.input_text:focus {
+  outline: orange 2px solid;
+}
